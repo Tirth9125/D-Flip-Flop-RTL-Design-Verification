@@ -33,4 +33,4 @@ endclass
 //////////////////////////////////////////////////////
  
 
-  transaction tr; // Define a transaction objec
+ 
