@@ -1,7 +1,5 @@
 # D-Flip-Flop-RTL-Design-Verification
 
-# D Flip-Flop RTL Design & Verification
-
 ## Project Overview
 
 This project implements a synchronous D Flip-Flop in SystemVerilog and verifies its functionality using a class-based verification environment.
